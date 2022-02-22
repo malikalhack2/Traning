@@ -1,2 +1,2 @@
-# Traning
-For traning use
+# Traning project
+***Note:*** For traning use only  
